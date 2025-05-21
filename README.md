@@ -48,22 +48,22 @@ Developed iteratively with debugging and enhancements guided by Amazon Q CLI’s
 
 ## 💻 How to Run
 
-# Clone the repository
+Clone the repository
 git clone https://github.com/hrudu-dev/pacman-amazon-qcli.git
 cd pacman-amazon-qcli
 
-# Create and activate a Python virtual environment (Linux/macOS)
+Create and activate a Python virtual environment (Linux/macOS)
 python3 -m venv pacman-env
 source pacman-env/bin/activate
 
-# For Windows PowerShell, use these commands instead:
-# python -m venv pacman-env
-# .\pacman-env\Scripts\Activate.ps1
+For Windows PowerShell, use these commands instead:
+python -m venv pacman-env
+.\pacman-env\Scripts\Activate.ps1
 
-# Install dependencies
+Install dependencies
 pip install pygame
 
-# Run the game
+Run the game
 python pacman.py
 
 ## 🎯 Conclusion
