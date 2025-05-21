@@ -37,16 +37,12 @@ Developed iteratively with debugging and enhancements guided by Amazon Q CLI’s
 ## 📸 Screenshots
 
 ### Gameplay Screen  
-![Gameplay](./images/gameplay_screenshot.png)  
+![Gameplay](./pacman-gameplay.png)  
 *Smooth movement with visible dots and ghosts*
 
 ### Game Over with Play Again Button  
-![Game Over](./images/game_over_screenshot.png)  
+![Game Over](./pacman-gameover.png)  
 *After losing, click the green "Play Again" button to restart*
-
-### High Score Display  
-![High Score](./images/high_score_screenshot.png)  
-*Track your best score persistently between sessions*
 
 ---
 
