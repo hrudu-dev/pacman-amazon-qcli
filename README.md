@@ -58,7 +58,6 @@ source pacman-env/bin/activate
 
 For Windows PowerShell, use these commands instead:
 python -m venv pacman-env
-.\pacman-env\Scripts\Activate.ps1
 
 Install dependencies
 pip install pygame
